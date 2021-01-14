@@ -1,6 +1,4 @@
 import React, { useEffect, useState, useRef } from 'react';
-import PropTypes from 'prop-types';
-
 import './ProgressBar.css';
 
 const ProgressBar = props => {
